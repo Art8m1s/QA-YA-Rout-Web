@@ -6,7 +6,7 @@
 * Протестировать валидацию полей и завести баг-репорты, если есть баги.
 * Полное требование указано в документе <a href="https://docs.google.com/document/d/1tIs3KqK79vGR60EoGiDKLavvgsj0cjjrdSRK3AFdY6g/edit?tab=t.0#heading=h.7j2fbty8r7vb">Требования к Яндекс Маршрутам</a>
 
-![image]( тут ссылка на картинку)
+![image]( ПримерКЭ.png)
 
 
 * Выделил <a href="https://docs.google.com/spreadsheets/d/1ySqsPJujW1qsH2DF-ljQmdbrD6IiKJTw4ZnATusdM7o/edit?usp=sharing">КЭ и ГЗ</a> для полей ввода
