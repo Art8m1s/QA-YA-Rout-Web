@@ -11,9 +11,7 @@
 
 
 * Выделил <a href="https://docs.google.com/spreadsheets/d/1ySqsPJujW1qsH2DF-ljQmdbrD6IiKJTw4ZnATusdM7o/edit?usp=sharing">КЭ и ГЗ</a> для полей ввода
- <details> 
-![image](https://github.com/user-attachments/assets/26e5d1af-efd3-46c1-95e3-8222075ef7a1)
-</details>
+ 
   
   
   
