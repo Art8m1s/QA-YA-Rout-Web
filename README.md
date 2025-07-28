@@ -11,10 +11,24 @@
 
 
 * Выделил <a href="https://docs.google.com/spreadsheets/d/1ySqsPJujW1qsH2DF-ljQmdbrD6IiKJTw4ZnATusdM7o/edit?usp=sharing">КЭ и ГЗ</a> для полей ввода
- 
+ <details>
+  <summary>Нажмите для просмотра изображения</summary>
+
+  ![Описание изображения](https://example.com/image.png)
   
-  
+</details>
   
 * Написал <a href="https://docs.google.com/spreadsheets/d/11WEeWVPM__-DD__Zyl5ZMyqIIICuHSh4OSFtYusKXDQ/edit?usp=sharing">тест-кейсы</a> на валидацию полей времени и адреса
+  <details>
+  <summary>Нажмите для просмотра изображения</summary>
+
+  ![Описание изображения](https://example.com/image.png)
   
+</details>
 * Оформил баг-репорты в виде  <a href="https://docs.google.com/spreadsheets/d/1mDDwetevSOwpnhh1vjIK9hV6Ah3oN0Iy_A0JVGJtn-k/edit?usp=sharing">таблицы</a>
+<details>
+  <summary>Нажмите для просмотра изображения</summary>
+
+  ![Описание изображения](https://example.com/image.png)
+  
+</details>
