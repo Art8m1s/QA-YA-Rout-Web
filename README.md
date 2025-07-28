@@ -14,7 +14,7 @@
  <details>
   <summary>Нажмите для просмотра изображения</summary>
 
-  ![Описание изображения](https://example.com/image.png)
+  ![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web/blob/main/KEGZ.png)
   
 </details>
   
