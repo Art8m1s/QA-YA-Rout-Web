@@ -12,7 +12,7 @@
 
 * Выделил <a href="https://docs.google.com/spreadsheets/d/1ySqsPJujW1qsH2DF-ljQmdbrD6IiKJTw4ZnATusdM7o/edit?usp=sharing">КЭ и ГЗ</a> для полей ввода
  <details> 
-![image]( ПримерКЭ.png) 
+![Alt text](https://github.com/Art8m1s/QA-YA-Rout-Web/blob/main/ПримерКЭ.png "Optional title")
 </details>
   
   
