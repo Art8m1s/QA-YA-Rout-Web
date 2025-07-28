@@ -12,7 +12,7 @@
 
 * Выделил <a href="https://docs.google.com/spreadsheets/d/1ySqsPJujW1qsH2DF-ljQmdbrD6IiKJTw4ZnATusdM7o/edit?usp=sharing">КЭ и ГЗ</a> для полей ввода
     <details>
-  <summary>Пример КЭ иГЗ</summary>
+  <summary>Фрагмент КЭ иГЗ</summary>
 
   ![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web/blob/main/KEGZ.png)
   
@@ -20,7 +20,7 @@
   
 * Написал <a href="https://docs.google.com/spreadsheets/d/11WEeWVPM__-DD__Zyl5ZMyqIIICuHSh4OSFtYusKXDQ/edit?usp=sharing">тест-кейсы</a> на валидацию полей времени и адреса
     <details>
-  <summary>Пример выполнения тест-кейсов</summary>
+  <summary>Фрагмент выполнения тест-кейсов</summary>
 
   ![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web/blob/main/PrimerTestKase.png)
   
@@ -28,7 +28,7 @@
 
 * Оформил баг-репорты в виде  <a href="https://docs.google.com/spreadsheets/d/1mDDwetevSOwpnhh1vjIK9hV6Ah3oN0Iy_A0JVGJtn-k/edit?usp=sharing">таблицы</a>
    <details>
-  <summary>Пример баг репортов</summary>
+  <summary>Фрагмент баг репортов</summary>
 
   ![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web/blob/main/Bugrep.png)
   
